@@ -3,7 +3,7 @@
 <div class="hero">
 <h1>Rex Client</h1>
 <p>Modern desktop application landing page with a clean cyber-inspired interface.</p>
-<a id="download" class="btn" href="RexClient.zip" download>⬇ DOWNLOAD</a>
+<a id="download" class="btn" href="https://github.com/Gangtaxxx/Rex-Client/blob/main/Rex.js" download>⬇ DOWNLOAD</a>
 </div>
 
 <section id="features">
